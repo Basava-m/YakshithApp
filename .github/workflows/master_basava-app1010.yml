@@ -53,4 +53,4 @@ jobs:
           app-name: 'Basava-APP1010'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A51EA432D89D498D9F1C0075342DE75E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9094F80F622A4EFC99098413013BDF4E }}
